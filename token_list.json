@@ -12,6 +12,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png",
       "tags": []
+    },
+    {
+      "chainId": 97,
+      "address": "0x348ae425Cb8B5218B63E6b566f6645668eEeF79D",
+      "symbol": "STT",
+      "name": "Star Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png",
+      "tags": []
     }
   ],
   "version": {
