@@ -6,6 +6,15 @@
   "tokens": [
     {
       "chainId": 97,
+      "address": "0xd5e5209B58661030C7Da8FcA68A15b09E297b260",
+      "symbol": "WBCX",
+      "name": "Wrapped BCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 97,
       "address": "0xe7f7F60D5DA267a2CaBE8487e74d58F15594f990",
       "symbol": "CMT",
       "name": "Comet Token",
