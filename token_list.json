@@ -5,8 +5,8 @@
   "timestamp": "2022-10-27T18:18:00+00:00",
   "tokens": [
     {
-      "chainId": 97,
-      "address": "0xd5e5209B58661030C7Da8FcA68A15b09E297b260",
+      "chainId": 12345,
+      "address": "0x7c022742232135609323cad31617496eCa86fa75",
       "symbol": "WBCX",
       "name": "Wrapped BCX",
       "decimals": 18,
@@ -14,23 +14,14 @@
       "tags": []
     },
     {
-      "chainId": 97,
-      "address": "0xe7f7F60D5DA267a2CaBE8487e74d58F15594f990",
-      "symbol": "CMT",
-      "name": "Comet Token",
+      "chainId": 12345,
+      "address": "0x2b8FAefAFE38Bd74B72225CA247D2E73F544bADb",
+      "symbol": "TT",
+      "name": "Test Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png",
       "tags": []
     },
-    {
-      "chainId": 97,
-      "address": "0x348ae425Cb8B5218B63E6b566f6645668eEeF79D",
-      "symbol": "STT",
-      "name": "Star Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png",
-      "tags": []
-    }
   ],
   "version": {
     "major": 1,
