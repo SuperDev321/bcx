@@ -21,7 +21,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png",
       "tags": []
-    },
+    }
   ],
   "version": {
     "major": 1,
