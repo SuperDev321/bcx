@@ -4529,7 +4529,7 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.jpg",
-      "name": "Bankless Token (PoS)",
+      "name": "Bankless Token PoS",
       "symbol": "BANK"
     },
     {
@@ -4545,7 +4545,7 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png",
-      "name": "Toucan Protocol: Base Carbon Tonne",
+      "name": "Toucan Protocol Base Carbon Tonne",
       "symbol": "BCT"
     },
     {
@@ -4913,7 +4913,7 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x127E47abA094a9a87D084a3a93732909Ff031419.jpg",
-      "name": "Genius Token & NFT Collections",
+      "name": "Genius Token And NFT Collections",
       "symbol": "GNUS"
     },
     {
@@ -5489,7 +5489,7 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8c059898ca6274750b6bF1cf38F2848347C490cc.jpg",
-      "name": "SOS (PoS)",
+      "name": "SOS PoS",
       "symbol": "SOS"
     },
     {
