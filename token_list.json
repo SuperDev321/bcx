@@ -2950,7 +2950,7 @@
     },
     {
       "name": "Tau Bitcoin",
-      "symbol": "𝜏BTC",
+      "symbol": "tBTC",
       "address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
       "chainId": 56,
       "decimals": 9,
