@@ -6973,22 +6973,6 @@
       "logoURI": "https://assets.spooky.fi/tokens/R4ID.png"
     },
     {
-      "name": "LUNA",
-      "symbol": "LUNA Wormhole",
-      "address": "0x593AE1d34c8BD7587C11D539E4F42BFf242c82Af",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://assets.spooky.fi/tokens/LUNAWORMHOLE.png"
-    },
-    {
-      "name": "UST",
-      "symbol": "UST Wormhole",
-      "address": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://assets.spooky.fi/tokens/USTWORMHOLE.png"
-    },
-    {
       "name": "DEUS",
       "symbol": "DEUS",
       "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
