@@ -7013,14 +7013,6 @@
       "logoURI": "https://assets.spooky.fi/tokens/FLIBERO.png"
     },
     {
-      "name": "Stader",
-      "symbol": "SD Wormhole",
-      "address": "0x412a13C109aC30f0dB80AD3Bd1DeFd5D0A6c0Ac6",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/SDWORMHOLE.png"
-    },
-    {
       "name": "sFTMX",
       "symbol": "sFTMX",
       "address": "0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1",
